@@ -1,0 +1,11 @@
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\bin\Debug\MariaJuliaEspinozaZarate_WindowsFinal.exe.config
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\bin\Debug\MariaJuliaEspinozaZarate_WindowsFinal.exe
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\bin\Debug\MariaJuliaEspinozaZarate_WindowsFinal.pdb
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.Form1.resources
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.Properties.Resources.resources
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.exe
+C:\Users\julia\Desktop\Bootcamp .NET\Practicas\MariaJuliaEspinozaZarate_WindowsFinal\obj\Debug\MariaJuliaEspinozaZarate_WindowsFinal.pdb
